@@ -1,0 +1,14 @@
+C:\Users\tomso\source\repos\Stripper\Stripper\bin\x64\Debug\Stripper.exe.config
+C:\Users\tomso\source\repos\Stripper\Stripper\bin\x64\Debug\Stripper.exe
+C:\Users\tomso\source\repos\Stripper\Stripper\bin\x64\Debug\Stripper.pdb
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\MainWindow.g.cs
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\App.g.cs
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper_MarkupCompile.cache
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper_MarkupCompile.lref
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\MainWindow.baml
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.g.resources
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.Properties.Resources.resources
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.csproj.GenerateResource.cache
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.csproj.CoreCompileInputs.cache
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.exe
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.pdb
