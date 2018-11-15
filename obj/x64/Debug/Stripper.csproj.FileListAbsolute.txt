@@ -12,3 +12,4 @@ C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.csproj.Gene
 C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.csproj.CoreCompileInputs.cache
 C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.exe
 C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.pdb
+C:\Users\tomso\source\repos\Stripper\Stripper\obj\x64\Debug\Stripper.csprojAssemblyReference.cache

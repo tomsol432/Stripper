@@ -40,7 +40,7 @@ namespace Stripper
             Creator c = new Creator(1000,1000);
             Thread thread = new Thread(() => {
             ImageCode.Dispatcher.Invoke(new Action(() => {
-                ImageCode.Source = ImageSourceForBitmap(c.pushTextData(data));
+                ImageCode.Source = ImageSourceForBitmap(c.PushTextData(data));
                 data = null;
                 c = null;
             }));
